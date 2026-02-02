@@ -1,4 +1,4 @@
-<img width="1915" height="763" alt="image" src="https://github.com/user-attachments/assets/f444e4de-873c-4c7d-a803-b761b24aa720" />*Retail Performance Dashboard (Power BI)
+
 This project is a Retail Performance Dashboard built using Power BI to analyze sales and profitability across products, time, and locations.
 The dashboard focuses on year-over-year performance, identifying top and underperforming products, and understanding regional profitability trends to support data-driven business decisions.
 
